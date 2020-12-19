@@ -43,5 +43,5 @@
 - Aplicando docker-compose nos meus projetos de estudo
 - Adicionando AWS Cloud ao meu conjunto de habilidades
 
-<\br>
+
 #### P.S. Açaí é melhor que sorvete :satisfied:
