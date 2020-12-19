@@ -39,7 +39,7 @@
 
 ## Atualmente estou...
 - Melhorando minhas habilidades com Spring Framework 
-- Estudando Microserviços com mensageria Kafka
+- Estudando Microsserviços com mensageria Kafka
 - Aplicando docker-compose nos meus projetos de estudo
 - Adicionando AWS Cloud ao meu conjunto de habilidades
 
