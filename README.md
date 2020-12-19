@@ -31,7 +31,7 @@
 - [x] Jasper Reports
 
 ## Certificações
-- [SCRUM Foundation Professional Certificate (SFPC) - CertiProf
+- SCRUM Foundation Professional Certificate (SFPC) - CertiProf
 
 ## :book: Leituras técnicas do momento
 - [x] Clean Code
