@@ -36,3 +36,12 @@
 ## :book: Leituras técnicas do momento
 - [x] Clean Code
 - [x] Clean Architecture
+
+## Atualmente estou...
+- Melhorando minhas habilidades com Spring Framework 
+- Estudando Microserviços com mensageria Kafka
+- Aplicando docker-compose nos meus projetos de estudo
+- Adicionando AWS Cloud ao meu conjunto de habilidades
+
+<\br>
+#### P.S. Açaí é melhor que sorvete :satisfied:
