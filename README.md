@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerpbandrade/)](https://www.linkedin.com/in/wagnerpbandrade/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522997462452&text=Olá!)](https://api.whatsapp.com/send?phone=5522997462452&text=Olá!)
 
-![Imagem_capa](https://github.com/WagnerpbAndrade/WagnerpbAndrade/blob/master/capa.jpg)
+![Imagem_capa](capa.jpg)
 
 ## System.out.println("Olá Mundo!");
 :man_technologist: Um eterno dev júnior na busca por conhecimento e apaixonado por desenvolvimento Java | Spring | Mobile.
