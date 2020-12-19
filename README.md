@@ -4,7 +4,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522997462452&text=Olá!)](https://api.whatsapp.com/send?phone=5522997462452&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rengawandrade)](https://t.me/rengawandrade)
 
-![Imagem_capa](capa.jpg)
+![Imagem_capa]([capa.jpg](https://github.com/WagnerpbAndrade/wagnerpbandrade/blob/main/capa.jpg))
 
 ## System.out.println("Olá Mundo!");
 :man_technologist: Um eterno dev júnior na busca por conhecimento e apaixonado por desenvolvimento Java | Spring | Mobile.
