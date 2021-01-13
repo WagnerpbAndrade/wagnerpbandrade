@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerpbandrade/)](https://www.linkedin.com/in/wagnerpbandrade/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522997462452&text=Olá!)](https://api.whatsapp.com/send?phone=5522997462452&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rengawandrade)](https://t.me/rengawandrade)
-[![Calendly Badge](https://img.shields.io/badge/-Calendly-yellowgreen)](calendly.com/wagnerpbandrade) 
+[![Calendly Badge](https://img.shields.io/badge/-Calendly-yellowgreen)](https://calendly.com/wagnerpbandrade) 
 
 ![Imagem_capa](/capa.jpg)
 
