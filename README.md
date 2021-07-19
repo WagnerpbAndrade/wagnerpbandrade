@@ -14,7 +14,8 @@
 - 🎓 Graduando em Ciência da Computação - (UFES - Universidade Federal do Espírito Santo) - 2021
 
 ## :octocat:  Principais Habilidades
-- [x] Java | Java EE | Spring Framework
+- [x] Java | Kotlin
+- [x] Spring Framework
 - [x] Dart | Flutter
 - [x] JDBC | JPA | Hibernate
 - [x] Swagger
@@ -26,10 +27,11 @@
 - [x] Firebase | Authentication | Firestore | Cloud Functions
 - [x] Git | Github | Gitlab
 - [x] IntelliJ IDEA | VSCode | Postman | Insomnia
-- [x] Scrum
+- [x] Scrum | Kanban
 - [x] Docker
 - [x] Heroku
 - [x] Jasper Reports
+- [x] Kafka
 
 ## Certificações
 - SCRUM Foundation Professional Certificate (SFPC) - CertiProf
@@ -37,11 +39,11 @@
 ## :book: Leituras técnicas do momento
 - [x] Clean Code
 - [x] Clean Architecture
+- [x] Java Efetivo Terceira Edição
+- [x] Migrando Sistemas Monolíticos para Microsserviços
 
 ## Atualmente estou...
 - Melhorando minhas habilidades com Spring Framework 
-- Estudando Microsserviços com mensageria Kafka
-- Aplicando docker-compose nos meus projetos de estudo
 - Adicionando AWS Cloud ao meu conjunto de habilidades
 
 
