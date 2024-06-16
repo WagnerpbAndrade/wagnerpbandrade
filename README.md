@@ -11,40 +11,22 @@
 :man_technologist: Um eterno dev júnior na busca por conhecimento e apaixonado por desenvolvimento Java | Spring | Mobile.
 
 ## Formações
-- 🎓 Graduando em Ciência da Computação - (UFES - Universidade Federal do Espírito Santo) - 2021
+- 🎓 Graduado em Ciência da Computação - (UFES - Universidade Federal do Espírito Santo) - 2022
 
 ## :octocat:  Principais Habilidades
-- [x] Java | Kotlin
+- [x] Java
 - [x] Spring Framework
-- [x] Dart | Flutter
-- [x] JDBC | JPA | Hibernate
-- [x] Swagger
-- [x] Prometheus | Grafana
+- [x] New Relic, Dynatrace, Opensearch, Grafana
 - [x] Maven
-- [x] Junit | Mockito
-- [x] Restful
-- [x] Oracle | PostgreSQL | MySQL | MongoDB | MongoDB Cloud | SqLite | H2
-- [x] Firebase | Authentication | Firestore | Cloud Functions
+- [x] Testes de Unidade | Integrados
+- [x] PostgreSQL | MySQL | MongoDB | SqLite
 - [x] Git | Github | Gitlab
 - [x] IntelliJ IDEA | VSCode | Postman | Insomnia
 - [x] Scrum | Kanban
 - [x] Docker
-- [x] Heroku
-- [x] Jasper Reports
-- [x] Kafka
+- [x] AWS, Heruku, Firebase
+- [x] Mensageria (Kafka)
 
 ## Certificações
 - SCRUM Foundation Professional Certificate (SFPC) - CertiProf
 
-## :book: Leituras técnicas do momento
-- [x] Clean Code
-- [x] Clean Architecture
-- [x] Java Efetivo Terceira Edição
-- [x] Migrando Sistemas Monolíticos para Microsserviços
-
-## Atualmente estou...
-- Melhorando minhas habilidades com Spring Framework 
-- Adicionando AWS Cloud ao meu conjunto de habilidades
-
-
-#### P.S. Açaí é melhor que sorvete :satisfied:
