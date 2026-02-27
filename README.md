@@ -1,32 +1,111 @@
-# Wagner Andrade :seven:
+# Wagner Andrade
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagnerpbandrade/)](https://www.linkedin.com/in/wagnerpbandrade/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5527992464993&text=Olá!)](https://api.whatsapp.com/send?phone=5527992464993&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rengawandrade)](https://t.me/rengawandrade)
-[![Calendly Badge](https://img.shields.io/badge/-Calendly-yellowgreen)](https://calendly.com/wagnerpbandrade) 
+Senior Backend Engineer | Security Architecture | Distributed Systems | Java / Spring Boot
 
-![Imagem_capa](/capa.jpg)
+[LinkedIn](https://www.linkedin.com/in/wagnerpbandrade/)  
+Email: wagnerpbandrade@gmail.com  
+Calendly: https://calendly.com/wagnerpbandrade  
 
-## System.out.println("Olá Mundo!");
-:man_technologist: Um eterno dev júnior na busca por conhecimento e apaixonado por desenvolvimento Java | Spring | Mobile.
+---
 
-## Formações
-- 🎓 Graduado em Ciência da Computação - (UFES - Universidade Federal do Espírito Santo) - 2022
+## About Me
 
-## :octocat:  Principais Habilidades
-- [x] Java
-- [x] Spring Framework
-- [x] New Relic, Dynatrace, Opensearch, Grafana
-- [x] Maven
-- [x] Testes de Unidade | Integrados
-- [x] PostgreSQL | MySQL | MongoDB | SqLite
-- [x] Git | Github | Gitlab
-- [x] IntelliJ IDEA | VSCode | Postman | Insomnia
-- [x] Scrum | Kanban
-- [x] Docker
-- [x] AWS, Heruku, Firebase
-- [x] Mensageria (Kafka)
+Senior Backend Engineer with 5+ years of experience building secure and scalable systems in fintech environments.
 
-## Certificações
-- SCRUM Foundation Professional Certificate (SFPC) - CertiProf
+Specialized in authentication, authorization, account recovery, and security architecture.  
+Strong background in distributed systems, observability, and incident response in regulated environments.
+
+Currently working at PicPay in the Security Experience domain, contributing to authentication platform evolution and fraud mitigation initiatives.
+
+---
+
+## Core Expertise
+
+- Identity & Access Management (IAM)
+- Authentication & Authorization (OAuth2, JWT, RBAC)
+- Account Recovery & Fraud Mitigation
+- Distributed Systems Design
+- API Architecture (RESTful)
+- Security Incident Response
+- Observability & Monitoring
+- Regulatory Compliance (Bacen-aligned environments)
+
+---
+
+## Technical Stack
+
+**Languages**
+- Java (8+)
+- SQL
+
+**Backend**
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+- REST APIs
+- Kafka (Event-driven systems)
+
+**Infrastructure & DevOps**
+- Docker
+- Kubernetes
+- AWS
+- API Gateway
+
+**Observability**
+- OpenTelemetry
+- New Relic
+- Dynatrace
+- Grafana
+- OpenSearch
+
+**Databases**
+- PostgreSQL
+- MySQL
+- MongoDB
+
+---
+
+## Professional Experience
+
+### Senior Java Software Engineer — PicPay (Fintech)
+
+- Contributed to migration of legacy authentication architecture to modern OAuth2/JWT-based identity platform.
+- Worked on authentication and account recovery flows across multiple fintech products.
+- Partnered with fraud prevention teams to reduce risk exposure in sensitive flows.
+- Participated in security incident management aligned with Central Bank compliance.
+- Contributed to cross-team technical decisions impacting authentication infrastructure.
+
+---
+
+## What I’m Currently Focused On
+
+- Secure identity platforms
+- Scalable session management
+- Distributed system resilience
+- Token-based architectures
+- System design evolution
+
+---
+
+## Open To
+
+- Senior Backend Engineer (Remote US)
+- Security Engineer
+- Identity Platform Engineer
+- Mid-level/Senior backend opportunities
+
+---
+
+## Certifications
+
+- AWS Cloud Practitioner
+- Scrum Foundation Professional (SFPC)
+- Six Sigma Yellow Belt
+- Domain Driven Design
+
+---
+
+## Interests
+
+System design, security architecture, distributed identity systems, and building robust backend ecosystems.
 
