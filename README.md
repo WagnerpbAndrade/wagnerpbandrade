@@ -21,7 +21,6 @@ Currently working at PicPay in the Security Experience domain, contributing to a
 
 ## Core Expertise
 
-- Identity & Access Management (IAM)
 - Authentication & Authorization (OAuth2, JWT, RBAC)
 - Account Recovery & Fraud Mitigation
 - Distributed Systems Design
